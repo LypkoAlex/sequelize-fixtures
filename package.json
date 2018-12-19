@@ -28,10 +28,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/domasx2/sequelize-fixtures.git"
+    "url": "https://github.com/LypkoAlex/sequelize-fixtures"
   },
   "bugs": {
-    "url": "https://github.com/domasx2/sequelize-fixtures/issues"
+    "url": "https://github.com/LypkoAlex/sequelize-fixtures/issues"
   },
   "author": "Domas Lapinskas <domasx2@gmail.com>",
   "license": "BSD",
